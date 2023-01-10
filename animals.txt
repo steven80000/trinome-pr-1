@@ -1,4 +1,2 @@
-main
 lion vert
 lion rouge
-main
